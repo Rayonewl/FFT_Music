@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"yypp.obj" 
+TO "yypp" REGFILE (.\yypp.ORC) 
+RAMSIZE(256) 

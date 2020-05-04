@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Thinkpad\Desktop\单片机音频频谱设计\音乐频谱程序\yypp.uvproj
+Project File Date:  09/13/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling yypp.c...
+linking...
+Program Size: data=124.0 xdata=533 code=4036
+creating hex file from "yypp"...
+"yypp" - 0 Error(s), 0 Warning(s).
